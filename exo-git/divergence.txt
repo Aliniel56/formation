@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+ligne sur main
+=======
+ligne sur la banche
+>>>>>>> test-divergence
